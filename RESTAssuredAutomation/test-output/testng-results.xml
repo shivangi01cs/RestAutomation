@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-13T08:26:26 PST" name="Default suite" finished-at="2023-02-13T08:26:29 PST" duration-ms="2993">
+    <groups>
+    </groups>
+    <test started-at="2023-02-13T08:26:26 PST" name="Default test" finished-at="2023-02-13T08:26:29 PST" duration-ms="2993">
+      <class name="com.telus.tests.PutPatchDelete">
+        <test-method signature="testDelete()[pri:0, instance:com.telus.tests.PutPatchDelete@3e84448c]" started-at="2023-02-13T08:26:26 PST" name="testDelete" finished-at="2023-02-13T08:26:28 PST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testPatch()[pri:0, instance:com.telus.tests.PutPatchDelete@3e84448c]" started-at="2023-02-13T08:26:28 PST" name="testPatch" finished-at="2023-02-13T08:26:28 PST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatch -->
+        <test-method signature="testPost()[pri:0, instance:com.telus.tests.PutPatchDelete@3e84448c]" started-at="2023-02-13T08:26:28 PST" name="testPost" finished-at="2023-02-13T08:26:29 PST" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- com.telus.tests.PutPatchDelete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
